@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "My Protected Area"
+AuthUserFile /var/lib/openshift/519e3f1ce0b8cd19dd000460/app-root/repo/php/my/auth
+Require valid-user

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload Files using XMLHttpRequest - Minimal</title>
+
+    <script type="text/javascript">
+      function fileSelected(input) {
+        // IE not support
+          if (input.files) {
+              var file = input.files[0];
+              var fileSize = 0;
+              if (file.size > 1024 * 1024)
+                  fileSize = (file.size / (1024 * 1024)).toFixed(2) + 'MB';
+              else
+                  fileSize = (file.size / 1024).toFixed(2) + 'KB';
+
+              input.form.submit.value = 'Upload ' + fileSize;
+              input.form.submit.disabled = false;
+          }
+      }
+      function uploadFile(form) {
+
+          try {
+              var fd = new FormData();
+
+              var inputs = form.getElementsByTagName('input');
+              for (var i = 0; i < inputs.length; i++) {
+                  var input = inputs[i];
+                  if (input.name) {
+                      if (input.type == "file") {
+                          fd.append(input.name, input.files[0]);
+                      } else {
+                          fd.append(input.name, input.value);
+                      }
+                  }
+              }
+
+              var btnSubmit = form.submit;
+              var xhr = new XMLHttpRequest();
+              xhr.upload.addEventListener("progress", function(evt) {
+                  if (evt.lengthComputable) {
+                      var p = (evt.loaded * 100 / evt.total).toFixed(1);
+                      if (p < 100) {
+                          btnSubmit.value = p.toString() + '%';
+                      } else {
+                          btnSubmit.value = '99.9%';
+                      }
+                  } else {
+                      btnSubmit.value = 'unable to compute';
+                  }
+              }, false);
+              xhr.addEventListener("load", function(evt) {
+                  var text = evt.target.responseText;
+                  if (text != 1) {
+                      btnSubmit.value = "Failed";
+                  } else {
+                      btnSubmit.value = "Finished";
+                      btnSubmit.disabled = true;
+                  }
+              }, false);
+              xhr.addEventListener("error", function(evt) {
+                  alert("There was an error attempting to upload the file.");
+              }, false);
+              xhr.addEventListener("abort", function(evt) {
+                  alert("The upload has been canceled by the user or the browser dropped the connection.");
+              }, false);
+              xhr.open("POST", form.action);
+              xhr.send(fd);
+              return false;
+          } catch (err) {
+              return true;
+          }
+      }
+
+      function validateForm(form) {
+          if (form.fileToUpload.value == '') {
+              return false;
+          }
+          return uploadFile(form);
+      }
+
+
+    </script>
+</head>
+<body>
+  <form enctype="multipart/form-data" method="post" action="up.php" onsubmit="return validateForm(this)">
+    <input type="file" name="fileToUpload" onchange="fileSelected(this);"/>
+    <input type="submit" name="submit" value="Upload" />
+  </form>
+</body>
+</html>
+

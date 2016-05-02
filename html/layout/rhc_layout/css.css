@@ -1,0 +1,70 @@
+html {background: #f2f2f2;height: 100%;}
+body {font-weight: normal;height: 100%;margin: 0;font-family: Arial;font-size: 14px;line-height: 20px;color: #404040;}
+a {outline: none;color: #069;text-decoration: none}
+a:hover {outline: 0;color: #a1000c;text-decoration: underline}
+ul {padding: 0;	margin: 0 0 24px 24px}
+
+section.wrap {
+height: auto !important;
+margin: 0 auto -70px auto;
+min-height: 100%;
+padding-bottom: 70px;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box
+}
+.header {background: #333;}
+
+section.foot {}
+.footer {background: #292929; height:70px}
+
+.container {width: 935px; margin:auto; padding:0px}
+.container:after {display: table;content: "";clear: both;}
+
+.header .brand {float: left;margin: 0;padding: 15px 0;}
+.header .brand {color: lightblue; font-size:32px; font-family:Verdana}
+
+.header .topnav {margin: 0;list-style: none;float:right;}
+.header .topnav li {float: left;}
+.header .topnav li a {display: block;color: #dadada;padding: 10px;}
+
+.header .btnnav {display: none;padding: 10px;position: absolute;right: 0;top: 10px}
+.header .btnnav .icon-bar {background: rgba(255,255,255,0.65);display: block;height: 2px;width: 26px}
+.header .btnnav:hover .icon-bar {background: rgba(255,255,255,0.9)}
+.header .btnnav .icon-bar + .icon-bar {margin-top: 4px}
+
+.alert {color: #ffd24e !important;}
+
+.row {display: table;}
+.span4 {float: left;width: 295px; padding-left:10px}
+.span8 {float: left;width: 615px; padding-left:10px}
+
+.footer a {color: lightblue; font-size:22px; font-family:Verdana; line-height:56px}
+
+@media (min-width: 768px) and (max-width: 979px) {
+	.container {width: 724px}
+	.span4 {width: 200px}
+	.span8 {width: 400px}
+}
+
+@media (max-width: 767px) {
+	.header .brand {height: 31px; width: 288px}
+    
+    .header .btnnav {display: block}
+	.header .topnav {clear: both;float: none;font-weight: bold;text-align: center}
+	.header .topnav li {float: none}
+    
+    .alert {background: #ffd24e;color: #000 !important;margin: 0 -20px 7px !important;padding: 5px 0}
+    .visible-phone {display: inherit !important}
+	.hidden-phone {display: none !important}
+    
+	.container {width: auto;padding: 0 20px}
+    .span4 {width: auto}
+	.span8 {width: auto}
+}
+
+@media (max-width:479px) {
+    .header .brand {height: 26px; width: 215px}
+}
+
+
