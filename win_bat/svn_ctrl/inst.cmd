@@ -1,4 +1,8 @@
 @echo off
-sc create svnserve binpath= "\"C:\Program Files\Subversion\bin\svnserve.exe\" --service -r D:\svn_repo" displayname= "Subversion Server" depend= Tcpip start= auto
+
+set SVNSERVE=\"C:\Program Files\TortoiseSVN\bin\svnserve.exe\"
+set ROOTPATH=C:\Users\pdczxj\svn_repo
+
+sc create svnserve binpath= "%SVNSERVE% --service --root %ROOTPATH%" displayname= "Subversion Server" depend= Tcpip start= auto
 
 pause
