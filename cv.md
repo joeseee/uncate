@@ -6,8 +6,9 @@
 # Skills
 * Expert in **Java**, **Python** and **Javascript** in **Linux**
 * Expert in **HTTP** and **FIX** (Financial Information eXchange) Protocol
+* Expert in **ULLINK** and **FIDESSA**
 * Experienced in HTML5 and Websocket
-* Experienced in Spring Framework and JVM tunning
+* Experienced in Spring Framework and JVM tuning
 * Experienced in Agile team as a technical leader and scrum master, building DEVOPS CI/CD pipeline, automation deployment, automation testing and monitoring framework.
 
 # Certification
@@ -18,13 +19,13 @@
 |----|----|-------|----------|
 |2010.01 ~ Present|Senior Developer/Technical Leader|Sarah X Z Lin/Anny Y Zhang|Java/Python/JavaScript|
 
-* Working as a consultant specialist within a global team to design, development and testing of cash equities global trading applications on Fidessa and ULLINK. 
-* Provide End to End solution on front-office requirement.
+* Working as a consultant specialist within a global team to design, development and testing of cash equities global trading applications on Fidessa and ULLINK.
+* Provide End to End solution for stock trading platform.
 
 ### Project: Low Latency trading platform
 |Time|Role|Manager|Technology|
 |----|----|-------|----------|
-|2016 ~ Present|Tech Lead|Hottman M S SIN|ULLINK/Java/Python/Spring Framework/QuickFixJ|
+|2016 ~ Present|Tech Lead|Hottman M S SIN|Java/Python/Spring Framework/QuickFixJ/ULLINK|
 
 * Design and develop the new generation High volume and low latency trading platform as the replacement of the existing one
 * Design and develop the platform infrastructure with primary-standby-DR with 24 x 5 globally trading model with ULLINK.
@@ -37,7 +38,7 @@
 ### Project: IT Transformations Devops and Agile
 |Time|Role|Manager|Technology|
 |----|----|-------|----------|
-|2016 ~ Present|Tech Lead|Elaine NG|GIT/Stash/Jira/Jenkins/Teamcity/Cucumber/Ansible/IntelliJIDEA/Sonarqube|
+|2016 ~ Present|Tech Lead|Elaine NG|GIT/Stash/Jenkins/Ansible/Sonar|
 
 * Work closely with Thoughtworks consultants and coaches to adopt the DEVOPS methodogy to the project team.
 * Play a Scrum master role in the project team to ensure the team running in an HSBC Agile way.
