@@ -76,7 +76,8 @@
 * Using SQL and store procedure to generating all kinds of reports for back office or Audit. 
 * Focus on the BAU item delivery in time to meet business need.
 * Trouble-shoot the production issue with faster turn-around.
-* Write Shell scripts to speed up the daily development work or support.
+* Write scripts to speed up the daily development work or support.
+* Build reporting tool for extract data from database and convert to required format.
 
 # Experience: Guangdong Data & Communication Service Ltd
 |Time|Role|Manager|Technology|
