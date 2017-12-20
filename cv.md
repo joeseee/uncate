@@ -12,7 +12,7 @@
 * Experienced in Agile team as a technical leader and scrum master, building DEVOPS CI/CD pipeline, automation deployment, automation testing and monitoring framework.
 
 # Certification
-* Project Management Professional (PMP)®, PMP Number: 1999690
+* Project Management Professional (PMP), PMP Number: 1999690
 
 # Experience: HSBC Software Development Ltd
 |Time|Role|Manager|Technology|
