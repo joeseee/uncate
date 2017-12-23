@@ -4,7 +4,7 @@
 |Male|32|+86 13422056044|joesee@qq.com|
 
 # Skills
-* 8 Years **Java**, 6 Years **Python**, 6 Years **Javascript**, 10 years **Linux**
+* 8 years **Java**, 6 years **Python**, 5 years **Javascript**, 10 years **Linux**
 * Expert in **HTTP** and **FIX** (Financial Information eXchange) Protocol
 * Expert in **ULLINK** and **FIDESSA**
 * Experienced in HTML5 and Websocket
