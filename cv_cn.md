@@ -9,32 +9,32 @@
 * **ULLINK**和 **FIDESSA** 专家
 * 熟悉HTML5和Websocket
 * 熟悉Spring和JVM调优
-* 在敏捷团队担任技术负责人和Scrum Master，构建DEVOPS CI / CD管道，自动化部署，自动化测试和监控框架。
+* 在敏捷团队担任技术组长和Scrum Master，构建DEVOPS CI/CD管道，自动化部署，自动化测试和监控框架。
 
-# Certification
-* Top performance rating in 2014, above 10% all staff
+# 证书
+* Top performance rating in 2014, 超过10%的全部员工
 * Project Management Professional (PMP)
 
-# Experience: HSBC Software Development Ltd
+# 工作经验: 汇丰软件开发(广东)有限公司
+|时间|角色|经理|技术|
+|----|----|-------|----------|
+|2010.01 ~ 现在|高级开发人员/技术组长|Sarah X Z Lin/Anny Y Zhang|Java/Python/JavaScript|
+
+* 在全球团队担任顾问专家，在Fidessa和ULLINK上设计，开发和测试现金股票全球交易应用程序。
+* 提供股票交易平台的端到端解决方案。
+
+### 项目: Low Latency trading platform
 |Time|Role|Manager|Technology|
 |----|----|-------|----------|
-|2010.01 ~ Present|Senior Developer/Technical Leader|Sarah X Z Lin/Anny Y Zhang|Java/Python/JavaScript|
+|2016 ~ 现在|技术组长|Hottman M S SIN|Java/Python/Spring Framework/QuickFixJ/ULLINK|
 
-* Working as a consultant specialist within a global team to design, development and testing of cash equities global trading applications on Fidessa and ULLINK.
-* Provide End to End solution for stock trading platform.
-
-### Project: Low Latency trading platform
-|Time|Role|Manager|Technology|
-|----|----|-------|----------|
-|2016 ~ Present|Tech Lead|Hottman M S SIN|Java/Python/Spring Framework/QuickFixJ/ULLINK|
-
-* Design and develop the new generation High volume and low latency trading platform as the replacement of the existing one
-* Design and develop the platform infrastructure with primary-standby-DR with 24 x 5 globally trading model with ULLINK.
-* Design and develop the static-data-sync model between the new and old trading platforms.
-* Adopt the Devops and Agile tooling and methodology to the project team.
-* IntelliJIDEA and Sonar for coding and coding quality control; Git and Stash for source control management
-* Teamcity for package build, Cucumber for testing, Jenkins and Ansible for development.
-* Build emulators for those external connections, and build automate testing framework for regression.
+* 设计和开发新一代大容量，低延迟的交易平台作为现有交易平台的替代品
+* 使用ULLINK全天候24小时全天候交易模式，设计和开发带有主备DR的平台基础架构。
+* 设计和开发新旧交易平台之间的静态数据同步模型。
+* 对项目组采用Devops和Agile工具和方法。
+* IntelliJIDEA和声纳编码和编码质量控制; Git和Stash来源控制管理
+* 建立Teamcity, cucumber自动化测试, Jenkins和Ansible自动化部署的相关项目的release平台。
+* 为外部连接构建模拟器，并为回归构建自动化测试框架。
 
 ### Project: IT Transformations Devops and Agile
 |Time|Role|Manager|Technology|
