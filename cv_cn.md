@@ -12,7 +12,7 @@
 * 在敏捷团队担任技术组长和Scrum Master，构建DEVOPS CI/CD管道，自动化部署，自动化测试和监控框架。
 
 # 证书
-* Top performance rating in 2014, 超过10%的全部员工
+* 2014优秀员工, 超过10%的全部员工
 * Project Management Professional (PMP)
 
 # 工作经验: 汇丰软件开发(广东)有限公司
@@ -24,7 +24,7 @@
 * 提供股票交易平台的端到端解决方案。
 
 ### 项目: Low Latency trading platform
-|Time|Role|Manager|Technology|
+|时间|角色|经理|技术|
 |----|----|-------|----------|
 |2016 ~ 现在|技术组长|Hottman M S SIN|Java/Python/Spring Framework/QuickFixJ/ULLINK|
 
@@ -36,72 +36,72 @@
 * 建立Teamcity, cucumber自动化测试, Jenkins和Ansible自动化部署的相关项目的release平台。
 * 为外部连接构建模拟器，并为回归构建自动化测试框架。
 
-### Project: IT Transformations Devops and Agile
-|Time|Role|Manager|Technology|
+### 项目: IT转型 Devops and Agile
+|时间|角色|经理|技术|
 |----|----|-------|----------|
-|2016 ~ Present|Tech Lead|Elaine NG|GIT/Stash/Jenkins/Ansible/Sonar|
+|2016 ~ 现在|技术组长|Elaine NG|GIT/Stash/Jenkins/Ansible/Sonar|
 
-* Work closely with Thoughtworks consultants and coaches to adopt the DEVOPS methodogy to the project team.
-* Play a Scrum master role in the project team to ensure the team running in an HSBC Agile way.
-* Build project Kanban to visualize the task and the workload to for the global virtual team.
-* Play a Tech lead role to share the experience and coach the other teams for the DEVOPS adoption.
-* Design and Build Continue integration (CI) and Continue Deployment (CD) pipeline using the Devops tooling with Teamcity Jenkins and Ansible.
+* 与Thoughttworks顾问和教练密切合作，将DEVOPS方法应用于项目团队。
+* 在项目团队中扮演Scrum Master，确保团队以汇丰敏捷的方式运行。
+* 建立项目看板，将全球虚拟团队的任务和工作量可视化。
+* 发挥技术主导作用，分享经验，并指导其他团队采用DEVOPS。
+* 设计和构建使用TeamCity Jenkins和Ansible的Devops工具继续集成（CI）和继续部署（CD）管道。
 
-### Project: Retail Platform Hongkong exchange gateway ORION upgrade
-|Time|Role|Manager|Technology|
+### 项目: 零售交易平台的香港交易所系统ORION升级
+|时间|角色|经理|技术|
 |----|----|-------|----------|
-|2014 ~ 2015|Developer|Anny Y Zhang|Java/SpringBoot/Fidessa|
+|2014 ~ 2015|开发|Anny Y Zhang|Java/SpringBoot/Fidessa|
 
-* Participate the whole life cycle from design to release and maintenance and user training
-* Upgrade the Fidessa MMA component to V8 as the project dependency.
-* Build the Orion emulator with Java with most of feature of the HKEX open gateway protocol.
-* Build automatic regression tool with Java and python to test the performance of the platform.
-* Trouble shooting the order queuing issue during high volume trading situation. 
+* 参与从设计到发布，维护和用户培训的整个生命周期
+* 将Fidessa MMA组件升级到V8作为项目依赖项。
+* 用香港交易所开放网关协议的大部分功能建立与Java的Orion模拟器。
+* 用Java和python构建自动回归工具来测试平台的性能。
+* 在大批量交易的情况下排除订单排队问题。
 
-### Project: Hongkong exchange gateway ORION upgrade
-|Time|Role|Manager|Technology|
+### 项目: 机构交易平台的香港交易所系统ORION升级
+|时间|角色|经理|技术|
 |----|----|-------|----------|
-|2013 ~ 2014|Developer|Eric M Y Lee|Python/Fidessa|
+|2013 ~ 2014|开发|Eric M Y Lee|Python/Fidessa|
 
-* Work with the Fidessa and Hong Kong exchange to understand the technical requirements.
-* Learn the protocol specs and provide technical solution on the project tasks and issues.
-* Use Python to script log parsing analyzing tools to report and reveal the potential risk and issues.
-* Design the whole rundown for releasing the new module to replace the existing one with verification and rollback plans.
+* 与Fidessa和香港交易所合作，了解技术要求。
+* 了解协议规范，并就项目任务和问题提供技术解决方案。
+* 使用Python脚本日志解析分析工具来报告和揭示潜在的风险和问题。
+* 设计全新的模块来释放新的模块，以验证和回滚计划取代现有的模块。
 
-### Project: Fidessa Market-Connectivity for Asia
-|Time|Role|Manager|Technology|
+### 项目: Fidessa 亚洲交易所连接
+|时间|角色|经理|技术|
 |----|----|-------|----------|
-|2010 ~ 2012|Developer|Edward W Y Ho|Python/JavaScript/Fidessa|
+|2010 ~ 2012|开发|Edward W Y Ho|Python/JavaScript/Fidessa|
 
-* Using Vim/SSH/SFTP to maintain the Fidessa with hundreds of the components and processes
-* Using SQL and store procedure to generating all kinds of reports for back office or Audit. 
-* Focus on the BAU item delivery in time to meet business need.
-* Trouble-shoot the production issue with faster turn-around.
-* Write scripts to speed up the daily development work or support.
-* Build reporting tool for extract data from database and convert to required format.
+* 使用Vim / SSH / SFTP来维护数百个组件和进程的Fidessa
+* 使用SQL和存储过程为后台或审计生成各种报告。
+* 及时关注BAU项目交付，以满足业务需求。
+* 以更快的周转时间解决生产问题。
+* 编写脚本加速日常开发工作或支持。
+* 构建报告工具，从数据库提取数据并转换为所需的格式。
 
-# Experience: Guangdong Data & Communication Service Ltd
-|Time|Role|Manager|Technology|
+# 经验: 广东数据通信服务有限公司
+|时间|角色|经理|技术|
 |----|----|-------|----------|
-|2009.06 ~ 2009.12|Java Developer|...|Java/Web Service/JavaScript/Oracle/SQLServer|
+|2009.06 ~ 2009.12|Java开发|...|Java/Web Service/JavaScript/Oracle/SQLServer|
 
-### Project: Beijing Telecom Project Management System
-* Enhancement & development for part of workflow modules
+### 项目: 北京电信项目管理系统
+* 部分工作流程模块的增强和开发
 
-### Project: Distributed Storage System
-* Storage API development base on Hadoop open source project
+### 项目: 分布式系统可行性研究
+* 存储API开发基于Hadoop开源项目
 
-# Experience: Netease Interactive Entertainment Ltd
-|Time|Role|Manager|Technology|
+# 经验: 网易互动娱乐有限公司
+|时间|角色|经理|技术|
 |----|----|-------|----------|
-|2007.12 ~ 2008.12|Linux Developer|...|C/C++/MySQL/Python/JavaScript/PHP|
+|2007.12 ~ 2008.12|Linux开发|...|C/C++/MySQL/Python/JavaScript/PHP|
 
-### Project: Online Game E-Pay System
-* Maintain and bug fix for the project which is built by C/C++ FastCGI
+### 项目: 网络游戏E-Pay系统
+* 维护和修复由C / C ++ FastCGI构建的项目
 
-### Project: Online Game E-Pay Bonus System
-* Design & development a Python FastCGI project
+### 项目: 网络游戏E-Pay积分系统
+* 设计和开发一个Python FastCGI项目
 
-# Education:
-* 2004 ~ 2008, University of Electronic Science and Technology of China (UESTC), Bachelor of Environment Engineering
+# 教育:
+* 2004 ~ 2008, 电子科技大学, 环境工程, 学士
 
