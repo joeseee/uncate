@@ -5,8 +5,8 @@
 
 # 技能
 * 8年 **Java**，6年 **Python**，5年 **Javascript**，10年 **Linux**
-* **HTTP**和 **FIX**（金融信息交换）协议专家
-* **ULLINK**和 **FIDESSA** 专家
+* 精通**HTTP**和 **FIX**（金融信息交换）协议
+* 精通**ULLINK**和 **FIDESSA** 
 * 熟悉HTML5和Websocket
 * 熟悉Spring和JVM调优
 * 在敏捷团队担任技术组长和Scrum Master，构建DEVOPS CI/CD管道，自动化部署，自动化测试和监控框架。
