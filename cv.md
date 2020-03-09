@@ -4,21 +4,54 @@
 |Male|32|+86 13422056044|joesee@qq.com|
 
 # Skills
-* 8 years **Java**, 6 years **Python**, 5 years **Javascript**, 10 years **Linux**
+* 10 years **Java**, 8 years **Python**, 6 years **Javascript**, 12 years **Linux**
 * Expert in **HTTP** and **FIX** (Financial Information eXchange) Protocol
 * Expert in **ULLINK** and **FIDESSA**
 * Experienced in HTML5 and Websocket
 * Experienced in Spring Framework and JVM tuning
+* Familiar with Bloomberg API/SFTP API/JDBC/Influxdb/Restful popular libraries on both Java and Python
 * Experienced in Agile team as a technical leader and scrum master, building DEVOPS CI/CD pipeline, automation deployment, automation testing and monitoring framework.
 
 # Certification
+* Strong performance rating from 2017 2018 and 2019, above 20% all staff
 * Top performance rating in 2014, above 10% all staff
 * Project Management Professional (PMP)
 
-# Experience: HSBC Software Development Ltd
+# Working Experience: HSBC TECHNOLOGY AND SERVICES (USA)
 |Time|Role|Manager|Technology|
 |----|----|-------|----------|
-|2010.01 ~ Present|Senior Developer/Technical Leader|Sarah X Z Lin/Anny Y Zhang|Java/Python/JavaScript|
+|2018.06 ~ 2019.02|Senior Developer|Judy Lai/Kav Ghai|Java/Python/JavaScript|
+|2019.02 ~ Now |Technical Support|Judy Lai/Kav Ghai|Fidessa/Java/Python|
+
+* Working as a consultant specialist within a global team to design, 
+development and testing of cash equities global trading applications on ULLINK.
+* Provide End to End solution for Cash Equities trading platform.
+
+### Support: Core Cash Trading platform (Fidessa and ULLINK)
+|Time|Role|Manager|Technology|
+|----|----|-------|----------|
+|2019.02 ~ Now |Technical Support|Judy Lai/Kav Ghai|Fidessa/Java/Python|
+
+* Build a Spring-Boot with HTML5 app to directly most of the manually database enquires into a self-service reporting center.
+the compliance and trade operation users are able to pull their data without interactive with support.
+It helps the team to get rid of hundreds of support tasks in 2019.
+* Using Python to enhance the Supervisory Exception Report Framework to support multiple hierarchies approval work-flow
+It helps the business to save 200K USD by not purchasing another software to response this audit concern.
+* Help the business to automate a client report by Java which requires reading Excel data - extract data from Bloomberg API and sftp out.
+It helps the business save time from manually generating the report everyday. 
+
+### Project: Low Latency trading platform migration
+|Time|Role|Manager|Technology|
+|----|----|-------|----------|
+|2018.06 ~ 2019.02|Developer|Kav Ghai|Java/Python|
+
+* Tuning the platform latency 99 percentile from 100+ milliseconds down to 10 milliseconds. 
+* Setup InfluxDB and Grafana platform to monitoring the latency figures
+
+# Working Experience: HSBC Software Development Ltd
+|Time|Role|Manager|Technology|
+|----|----|-------|----------|
+|2010.01 ~ 2018.06|Senior Developer/Technical Leader|Sarah X Z Lin/Anny Y Zhang|Java/Python/JavaScript|
 
 * Working as a consultant specialist within a global team to design, development and testing of cash equities global trading applications on Fidessa and ULLINK.
 * Provide End to End solution for stock trading platform.
@@ -26,7 +59,7 @@
 ### Project: Low Latency trading platform
 |Time|Role|Manager|Technology|
 |----|----|-------|----------|
-|2016 ~ Present|Tech Lead|Hottman M S SIN|Java/Python/Spring Framework/QuickFixJ/ULLINK|
+|2016 ~ 2018.06|Tech Lead|Hottman M S SIN|Java/Python/Spring Framework/QuickFixJ/ULLINK|
 
 * Design and develop the new generation High volume and low latency trading platform as the replacement of the existing one
 * Design and develop the platform infrastructure with primary-standby-DR with 24 x 5 globally trading model with ULLINK.
@@ -39,7 +72,7 @@
 ### Project: IT Transformations Devops and Agile
 |Time|Role|Manager|Technology|
 |----|----|-------|----------|
-|2016 ~ Present|Tech Lead|Elaine NG|GIT/Stash/Jenkins/Ansible/Sonar|
+|2016 ~ 2018.06|Tech Lead|Elaine NG|GIT/Stash/Jenkins/Ansible/Sonar|
 
 * Work closely with Thoughtworks consultants and coaches to adopt the DEVOPS methodogy to the project team.
 * Play a Scrum master role in the project team to ensure the team running in an HSBC Agile way.
@@ -80,7 +113,7 @@
 * Write scripts to speed up the daily development work or support.
 * Build reporting tool for extract data from database and convert to required format.
 
-# Experience: Guangdong Data & Communication Service Ltd
+# Working Experience: Guangdong Data & Communication Service Ltd
 |Time|Role|Manager|Technology|
 |----|----|-------|----------|
 |2009.06 ~ 2009.12|Java Developer|...|Java/Web Service/JavaScript/Oracle/SQLServer|
@@ -91,7 +124,7 @@
 ### Project: Distributed Storage System
 * Storage API development base on Hadoop open source project
 
-# Experience: Netease Interactive Entertainment Ltd
+# Working Experience: Netease Interactive Entertainment Ltd
 |Time|Role|Manager|Technology|
 |----|----|-------|----------|
 |2007.12 ~ 2008.12|Linux Developer|...|C/C++/MySQL/Python/JavaScript/PHP|
@@ -104,4 +137,3 @@
 
 # Education:
 * 2004 ~ 2008, University of Electronic Science and Technology of China (UESTC), Bachelor of Environment Engineering
-
